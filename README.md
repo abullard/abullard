@@ -15,5 +15,7 @@ TBD - Revamp this later
 
 |Certification|Expiration Date|
 |---|---|
-|✅ [Github Actions Certification](https://learn.microsoft.com/api/credentials/share/en-us/AustinBullard-2869/474F095BB137664A?sharingId=E5B3C93458BD48A1)|Jan. 18th 2028|
-|⛔ Github Advanced Security|-|
+|✅ [GH - 200](https://learn.microsoft.com/api/credentials/share/en-us/AustinBullard-2869/474F095BB137664A?sharingId=E5B3C93458BD48A1)|Jan. 18th 2028|
+|⛔ GH - 500|-|
+|✅ [AZ-104](https://learn.microsoft.com/api/credentials/share/en-us/AustinBullard-2869/2B4DE0893EB9CEDA?sharingId=E5B3C93458BD48A1)|Mar. 6th 2027|
+|✏️ AZ-305|-|
