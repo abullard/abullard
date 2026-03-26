@@ -16,6 +16,6 @@ TBD - Revamp this later
 |Certification|Expiration Date|
 |---|---|
 |✅ [GH - 200](https://learn.microsoft.com/api/credentials/share/en-us/AustinBullard-2869/474F095BB137664A?sharingId=E5B3C93458BD48A1)|Jan. 18th 2028|
-|⛔ GH - 500|-|
 |✅ [AZ-104](https://learn.microsoft.com/api/credentials/share/en-us/AustinBullard-2869/2B4DE0893EB9CEDA?sharingId=E5B3C93458BD48A1)|Mar. 6th 2027|
-|✏️ AZ-305|-|
+|✅ [AZ-400](https://learn.microsoft.com/api/credentials/share/en-us/AustinBullard-2869/94D7E1EF77A1900E?sharingId=E5B3C93458BD48A1)|Mar. 25th 2027|
+|⛔ GH - 500|-|
